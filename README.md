@@ -21,12 +21,6 @@ This Type based Architecture scales smoothly for small - medium apps. If you guy
 
 [React-Native-Feature-BoilerPlate](https://github.com/victorkvarghese/react-native-feature-boilerplate)
 
-## Projects using this BoilerPlate
-
-- [MediBuddy](https://github.com/victorkvarghese/MediBuddy)
-- [react-native-messenger](https://github.com/victorkvarghese/react-native-messenger)
-- [rn-coffee](https://github.com/victorkvarghese/rn-coffee)
-
 ## Features
 
 - [Typescript](https://www.typescriptlang.org/) support.
